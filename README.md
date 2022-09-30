@@ -1,4 +1,6 @@
-# DSI_Project_1_SAT_ACT_Analysis
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+
+# Project 1: Standardized Test Analysis
 For General Assembly DSI Course
 
 ## Problem Statement

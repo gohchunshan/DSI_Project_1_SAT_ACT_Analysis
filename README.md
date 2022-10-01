@@ -4,7 +4,7 @@
 For General Assembly DSI Course
 
 ## Problem Statement
-As an advisor to state governments who have not adopted the use of compulsory or free statewide assessments for SAT or ACT, I am using data-backed evidence to recommend whether there is value for state governments to provide free or compulsory SAT or ACT improve students' scores and chances of getting into a college of their choice.
+As an advisor to state governments aiming to improve the average SAT and ACT scores, I will be using data-backed evidence to recommend whether there is value to provide free or compulsory statewide assessments (SAT or ACT) to improve students' scores and chances of getting into a college of their choice.
 
 ## Background
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.

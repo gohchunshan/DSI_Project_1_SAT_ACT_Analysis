@@ -143,7 +143,23 @@ The following states require high school juniors to take the SAT and offer the t
 |	is_act_required	|	*boolean*	|	df_us_sat_act	|	Whether ACT is required in the state as of 2020 |
 
 ## Brief Summary of Analysis
+There is a bimodal disribution of SAT and ACT scores.
+
+Out of the states with high ACT participation (>50% in 2019), 
+- There is larger correlation between the per capita income and mean ACT composite scores in 2019
+- There is smaller correlation between  state spending on education per pupil and mean ACT composite scores in 2019
+- For education level, States that have a higher percentage of bachelor degree holders have higher ACT composite scores as expected, because there are higher rate of college acceptance.
+- There is negligible correlation between ACT participation across the years with spending, income and education level.
+
+Out of the states with high SAT participation (>50% in 2019),
+- There is larger correlation between the SAT total scores in 2019 and state spending per pupil 
+- There is smaller correlation between SAT total scores in 2019 and percapita income 
+- There is negligible correlation between SAT participation across the years with state spending of education per pupil, and per capita income.
+- For education level, States that have a higher percentage of bachelor degree holders have a weaker correlation with higher SAT total scores (corr = 0.19), as opposed to the correlation result from ACT composite scores (0.55).
 
 ## Conclusions and Recommendations
 
-
+Interestingly, for states where SAT is provided free, it seems that the SAT total scores per state seem to be inversely related to the state spending, per capita income and percentage of bachelor degree holders and above.
+The opposite trend seems to be true for the states where SAT is not provided for free.
+To encourage higher scores and level the playing ground of states with higher per capita income, the focus should be on more targeted/customized preparation courses for subjects that students are weaker in, instead of simply increasing spending on education.
+As for ACT, there seems to be no clear trend showing that states with free ACT have higher ACT composite scores, hence it is optional for states to decide on their strategy for providing ACT free for students.
